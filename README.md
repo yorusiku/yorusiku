@@ -1,16 +1,15 @@
  🌱Hello World🌱
 # Salesforce 개발자 & 인증 전문가
 
-## 🌟 Salesforce 인증
+## 🌟 Salesforce Certification
 - Salesforce Certified Administrator
 - Salesforce Certified Platform Developer I
 - Salesforce Certified Platform Developer II
 
 ## 💼 경험과 전문 분야
+- **Admin** Report, Dashboard
 - **Apex** 개발: 트리거, 클래스, 배치 Apex
 - **Lightning** 컴포넌트 및 **LWC** 개발
-- Salesforce **Data Modeling** 및 **Management**
-- **Salesforce API**를 사용한 통합
 
 <!--
 ### 📈 성과 및 프로젝트
